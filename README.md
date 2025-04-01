@@ -2,8 +2,6 @@
 
 ## Welcome to the *Official* Nintendo Switch Development Manual! 
 
-> **Confidential - For Authorized Developers Only**  
-
 This repository contains the *completely real* Nintendo Switch Development Manual, filled with **100% authentic** guidelines for developing games on the Switch.
 
 ## What's Inside?
